@@ -45,3 +45,6 @@
 
 # OS Specific
 *.DS_Store
+
+# Zip Files
+*.zip
